@@ -1,0 +1,5 @@
+This branch contains datasets from https://sites.google.com/site/hyperspectralcolorimaging/dataset
+Our dataset repository consists of various indoor and outdoor scenes taken with a SPECIM hyperspectral camera and multiple consumer cameras. For consumer cameras, camera-specific RAW format that is free of any manipulation, is available. For easier classification, our hyperspectral camera dataset has been categorised into the following categories:
+      General Scenes (Outdoor & Indoor)
+      Fruits
+      Color Charts and Patches
